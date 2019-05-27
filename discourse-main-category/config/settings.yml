@@ -1,0 +1,4 @@
+plugins:
+  main_category_enabled:
+    default: true
+    client: false
