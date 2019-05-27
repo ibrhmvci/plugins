@@ -1,0 +1,4 @@
+plugins:
+  profile_card_enabled:
+    default: true
+    client: true

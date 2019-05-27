@@ -1,0 +1,1 @@
+Bu plugin kullanıcı kart gösterim komponentinde değişiklik yapar. (Darih format değişikliği, gösterim sırası)
