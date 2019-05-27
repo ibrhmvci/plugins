@@ -1,0 +1,4 @@
+plugins:
+  name_mask_enabled:
+    default: true
+    client: true
